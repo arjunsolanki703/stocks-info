@@ -1,0 +1,389 @@
+{
+  "top_5_global_stocks": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "current_price": 145.09,
+      "daily_change_percent": 1.2,
+      "historical_performance": [
+        { "date": "Aug-01", "price": 140.76 },
+        { "date": "Aug-02", "price": 160.22 },
+        { "date": "Aug-03", "price": 180.09 },
+        { "date": "Aug-04", "price": 120.45 },
+        { "date": "Aug-05", "price": 100.9 },
+        { "date": "Aug-06", "price": 200.05 },
+        { "date": "Aug-07", "price": 140.09 }
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "current_price": 2725.6,
+      "daily_change_percent": -0.5,
+      "historical_performance": [
+        { "date": "Aug-01", "price": 2705.5 },
+        { "date": "Aug-02", "price": 2750.3 },
+        { "date": "Aug-03", "price": 2805.6 },
+        { "date": "Aug-04", "price": 2650.45 },
+        { "date": "Aug-05", "price": 2850.2 },
+        { "date": "Aug-06", "price": 2905.6 },
+        { "date": "Aug-07", "price": 2705.6 }
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc.",
+      "current_price": 3342.88,
+      "daily_change_percent": 0.8,
+      "historical_performance": [
+        { "date": "Aug-01", "price": 3300.5 },
+        { "date": "Aug-02", "price": 3400.2 },
+        { "date": "Aug-03", "price": 3500.88 },
+        { "date": "Aug-04", "price": 3250.15 },
+        { "date": "Aug-05", "price": 3550.1 },
+        { "date": "Aug-06", "price": 3650.75 },
+        { "date": "Aug-07", "price": 3300.88 }
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "current_price": 299.35,
+      "daily_change_percent": 1.0,
+      "historical_performance": [
+        { "date": "Aug-01", "price": 295.5 },
+        { "date": "Aug-02", "price": 310.0 },
+        { "date": "Aug-03", "price": 325.35 },
+        { "date": "Aug-04", "price": 285.45 },
+        { "date": "Aug-05", "price": 340.2 },
+        { "date": "Aug-06", "price": 355.75 },
+        { "date": "Aug-07", "price": 295.35 }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc.",
+      "current_price": 688.99,
+      "daily_change_percent": -2.3,
+      "historical_performance": [
+        { "date": "Aug-01", "price": 690.5 },
+        { "date": "Aug-02", "price": 720.2 },
+        { "date": "Aug-03", "price": 750.99 },
+        { "date": "Aug-04", "price": 670.15 },
+        { "date": "Aug-05", "price": 780.1 },
+        { "date": "Aug-06", "price": 810.75 },
+        { "date": "Aug-07", "price": 690.99 }
+      ]
+    }
+  ],
+  "top_5_daily_stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "current_price": 195.98,
+      "daily_change_percent": 1.5,
+      "historical_performance": [
+        { "date": "Aug-01", "price": 190.76 },
+        { "date": "Aug-02", "price": 210.22 },
+        { "date": "Aug-03", "price": 230.09 },
+        { "date": "Aug-04", "price": 180.45 },
+        { "date": "Aug-05", "price": 240.9 },
+        { "date": "Aug-06", "price": 260.05 },
+        { "date": "Aug-07", "price": 190.09 }
+      ]
+    },
+    {
+      "symbol": "ADBE",
+      "name": "Adobe Inc.",
+      "current_price": 620.3,
+      "daily_change_percent": -0.7,
+      "historical_performance": [
+        { "date": "Aug-01", "price": 610.5 },
+        { "date": "Aug-02", "price": 640.2 },
+        { "date": "Aug-03", "price": 670.88 },
+        { "date": "Aug-04", "price": 590.15 },
+        { "date": "Aug-05", "price": 700.1 },
+        { "date": "Aug-06", "price": 730.75 },
+        { "date": "Aug-07", "price": 610.3 }
+      ]
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "current_price": 157.65,
+      "daily_change_percent": 0.3,
+      "historical_performance": [
+        { "date": "Aug-01", "price": 155.76 },
+        { "date": "Aug-02", "price": 170.22 },
+        { "date": "Aug-03", "price": 185.09 },
+        { "date": "Aug-04", "price": 150.45 },
+        { "date": "Aug-05", "price": 190.9 },
+        { "date": "Aug-06", "price": 205.05 },
+        { "date": "Aug-07", "price": 155.65 }
+      ]
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corporation",
+      "current_price": 41.17,
+      "daily_change_percent": -0.2,
+      "historical_performance": [
+        { "date": "Aug-01", "price": 40.76 },
+        { "date": "Aug-02", "price": 45.82 },
+        { "date": "Aug-03", "price": 50.09 },
+        { "date": "Aug-04", "price": 35.45 },
+        { "date": "Aug-05", "price": 55.9 },
+        { "date": "Aug-06", "price": 60.05 },
+        { "date": "Aug-07", "price": 40.17 }
+      ]
+    },
+    {
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "current_price": 47.05,
+      "daily_change_percent": 0.8,
+      "historical_performance": [
+        { "date": "Aug-01", "price": 46.76 },
+        { "date": "Aug-02", "price": 52.82 },
+        { "date": "Aug-03", "price": 58.09 },
+        { "date": "Aug-04", "price": 42.45 },
+        { "date": "Aug-05", "price": 63.9 },
+        { "date": "Aug-06", "price": 68.05 },
+        { "date": "Aug-07", "price": 46.05 }
+      ]
+    }
+  ],
+  "sector_wise_top_stocks": {
+    "Technology": [
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "current_price": 145.09,
+        "daily_change_percent": 1.2,
+        "historical_performance": [
+          { "date": "Aug-01", "price": 143.76 },
+          { "date": "Aug-02", "price": 155.22 },
+          { "date": "Aug-03", "price": 165.09 },
+          { "date": "Aug-04", "price": 135.45 },
+          { "date": "Aug-05", "price": 175.9 },
+          { "date": "Aug-06", "price": 185.05 },
+          { "date": "Aug-07", "price": 140.09 }
+        ]
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "current_price": 2725.6,
+        "daily_change_percent": -0.5,
+        "historical_performance": [
+          { "date": "Aug-01", "price": 2705.5 },
+          { "date": "Aug-02", "price": 2800.3 },
+          { "date": "Aug-03", "price": 2905.6 },
+          { "date": "Aug-04", "price": 2600.45 },
+          { "date": "Aug-05", "price": 3000.2 },
+          { "date": "Aug-06", "price": 3105.6 },
+          { "date": "Aug-07", "price": 2650.6 }
+        ]
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "current_price": 299.35,
+        "daily_change_percent": 1.0,
+        "historical_performance": [
+          { "date": "Aug-01", "price": 295.5 },
+          { "date": "Aug-02", "price": 315.0 },
+          { "date": "Aug-03", "price": 335.35 },
+          { "date": "Aug-04", "price": 275.45 },
+          { "date": "Aug-05", "price": 350.2 },
+          { "date": "Aug-06", "price": 370.75 },
+          { "date": "Aug-07", "price": 290.35 }
+        ]
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "current_price": 195.98,
+        "daily_change_percent": 1.5,
+        "historical_performance": [
+          { "date": "Aug-01", "price": 190.76 },
+          { "date": "Aug-02", "price": 210.22 },
+          { "date": "Aug-03", "price": 230.09 },
+          { "date": "Aug-04", "price": 180.45 },
+          { "date": "Aug-05", "price": 240.9 },
+          { "date": "Aug-06", "price": 260.05 },
+          { "date": "Aug-07", "price": 190.09 }
+        ]
+      },
+      {
+        "symbol": "ADBE",
+        "name": "Adobe Inc.",
+        "current_price": 620.3,
+        "daily_change_percent": -0.7,
+        "historical_performance": [
+          { "date": "Aug-01", "price": 610.5 },
+          { "date": "Aug-02", "price": 640.2 },
+          { "date": "Aug-03", "price": 670.88 },
+          { "date": "Aug-04", "price": 590.15 },
+          { "date": "Aug-05", "price": 700.1 },
+          { "date": "Aug-06", "price": 730.75 },
+          { "date": "Aug-07", "price": 610.3 }
+        ]
+      }
+    ],
+    "Finance": [
+      {
+        "symbol": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "current_price": 157.65,
+        "daily_change_percent": 0.3,
+        "historical_performance": [
+          { "date": "Aug-01", "price": 155.76 },
+          { "date": "Aug-02", "price": 170.22 },
+          { "date": "Aug-03", "price": 185.09 },
+          { "date": "Aug-04", "price": 150.45 },
+          { "date": "Aug-05", "price": 190.9 },
+          { "date": "Aug-06", "price": 205.05 },
+          { "date": "Aug-07", "price": 155.65 }
+        ]
+      },
+      {
+        "symbol": "BAC",
+        "name": "Bank of America Corporation",
+        "current_price": 41.17,
+        "daily_change_percent": -0.2,
+        "historical_performance": [
+          { "date": "Aug-01", "price": 40.76 },
+          { "date": "Aug-02", "price": 45.82 },
+          { "date": "Aug-03", "price": 50.09 },
+          { "date": "Aug-04", "price": 35.45 },
+          { "date": "Aug-05", "price": 55.9 },
+          { "date": "Aug-06", "price": 60.05 },
+          { "date": "Aug-07", "price": 40.17 }
+        ]
+      },
+      {
+        "symbol": "WFC",
+        "name": "Wells Fargo & Company",
+        "current_price": 47.05,
+        "daily_change_percent": 0.8,
+        "historical_performance": [
+          { "date": "Aug-01", "price": 46.76 },
+          { "date": "Aug-02", "price": 52.82 },
+          { "date": "Aug-03", "price": 58.09 },
+          { "date": "Aug-04", "price": 42.45 },
+          { "date": "Aug-05", "price": 63.9 },
+          { "date": "Aug-06", "price": 68.05 },
+          { "date": "Aug-07", "price": 46.05 }
+        ]
+      },
+      {
+        "symbol": "C",
+        "name": "Citigroup Inc.",
+        "current_price": 69.25,
+        "daily_change_percent": 0.1,
+        "historical_performance": [
+          { "date": "Aug-01", "price": 68.76 },
+          { "date": "Aug-02", "price": 75.22 },
+          { "date": "Aug-03", "price": 81.09 },
+          { "date": "Aug-04", "price": 62.45 },
+          { "date": "Aug-05", "price": 85.9 },
+          { "date": "Aug-06", "price": 90.05 },
+          { "date": "Aug-07", "price": 65.25 }
+        ]
+      },
+      {
+        "symbol": "GS",
+        "name": "The Goldman Sachs Group, Inc.",
+        "current_price": 367.29,
+        "daily_change_percent": -0.4,
+        "historical_performance": [
+          { "date": "Aug-01", "price": 365.76 },
+          { "date": "Aug-02", "price": 380.22 },
+          { "date": "Aug-03", "price": 395.09 },
+          { "date": "Aug-04", "price": 350.45 },
+          { "date": "Aug-05", "price": 410.9 },
+          { "date": "Aug-06", "price": 425.05 },
+          { "date": "Aug-07", "price": 360.29 }
+        ]
+      }
+    ],
+    "Healthcare": [
+      {
+        "symbol": "JNJ",
+        "name": "Johnson & Johnson",
+        "current_price": 173.98,
+        "daily_change_percent": 0.5,
+        "historical_performance": [
+          { "date": "Aug-01", "price": 170.76 },
+          { "date": "Aug-02", "price": 185.22 },
+          { "date": "Aug-03", "price": 200.09 },
+          { "date": "Aug-04", "price": 160.45 },
+          { "date": "Aug-05", "price": 215.9 },
+          { "date": "Aug-06", "price": 230.05 },
+          { "date": "Aug-07", "price": 165.98 }
+        ]
+      },
+      {
+        "symbol": "PFE",
+        "name": "Pfizer Inc.",
+        "current_price": 49.97,
+        "daily_change_percent": -0.1,
+        "historical_performance": [
+          { "date": "Aug-01", "price": 49.76 },
+          { "date": "Aug-02", "price": 55.82 },
+          { "date": "Aug-03", "price": 60.09 },
+          { "date": "Aug-04", "price": 45.45 },
+          { "date": "Aug-05", "price": 65.9 },
+          { "date": "Aug-06", "price": 70.05 },
+          { "date": "Aug-07", "price": 48.97 }
+        ]
+      },
+      {
+        "symbol": "MRK",
+        "name": "Merck & Co., Inc.",
+        "current_price": 83.85,
+        "daily_change_percent": 0.7,
+        "historical_performance": [
+          { "date": "Aug-01", "price": 82.76 },
+          { "date": "Aug-02", "price": 90.22 },
+          { "date": "Aug-03", "price": 97.09 },
+          { "date": "Aug-04", "price": 75.45 },
+          { "date": "Aug-05", "price": 105.9 },
+          { "date": "Aug-06", "price": 112.05 },
+          { "date": "Aug-07", "price": 80.85 }
+        ]
+      },
+      {
+        "symbol": "ABBV",
+        "name": "AbbVie Inc.",
+        "current_price": 115.37,
+        "daily_change_percent": 0.6,
+        "historical_performance": [
+          { "date": "Aug-01", "price": 113.76 },
+          { "date": "Aug-02", "price": 125.22 },
+          { "date": "Aug-03", "price": 135.09 },
+          { "date": "Aug-04", "price": 105.45 },
+          { "date": "Aug-05", "price": 145.9 },
+          { "date": "Aug-06", "price": 155.05 },
+          { "date": "Aug-07", "price": 110.37 }
+        ]
+      },
+      {
+        "symbol": "TMO",
+        "name": "Thermo Fisher Scientific Inc.",
+        "current_price": 590.12,
+        "daily_change_percent": -0.3,
+        "historical_performance": [
+          { "date": "Aug-01", "price": 580.76 },
+          { "date": "Aug-02", "price": 610.22 },
+          { "date": "Aug-03", "price": 640.09 },
+          { "date": "Aug-04", "price": 550.45 },
+          { "date": "Aug-05", "price": 660.9 },
+          { "date": "Aug-06", "price": 680.05 },
+          { "date": "Aug-07", "price": 570.12 }
+        ]
+      }
+    ]
+  }
+}
